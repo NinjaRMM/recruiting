@@ -6,7 +6,7 @@ With this in mind, the exercise simulates the common lifecycle of a project and 
 
 ## Directions
 
-1. Visit the [Backend Engineer Task for NinjaOne](https://github.com/NinjaRMM/backend-interview-project-app-template/blob/main/INSTRUCTIONS.md) to view the Project and familiarize yourself with the requirements
+1. Visit the [Backend Engineer Task for NinjaOne](https://github.com/NinjaRMM/backend-interview-project-app-template/blob/main/INSTRUCTIONS.md) to view the Project and familiarize yourself with the requirements. NOTE: ***You do not have to follow the assessment instructions to implement/code the solution***
 3. Based on the Requirements, Create User Stories modeling the implementation of the project that would be ultimately assigned to Developers. The stories can just be written in a text document, no need to put them into a board in a Project Management platform
 4. Design and Document the Data Model using either a Diagram, a text document, or SQL DDL statements
 5. Consider implementation and design choices of the project and be ready to discuss them verbally
